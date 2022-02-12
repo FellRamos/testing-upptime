@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 63,
-    "timeWeek": 65,
+    "timeDay": 65,
+    "timeWeek": 64,
     "timeMonth": 87,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 250,
-    "timeWeek": 216,
-    "timeMonth": 210,
+    "time": 213,
+    "timeDay": 388,
+    "timeWeek": 242,
+    "timeMonth": 220,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 424,
-    "timeDay": 431,
-    "timeWeek": 349,
-    "timeMonth": 326,
+    "timeDay": 384,
+    "timeWeek": 350,
+    "timeMonth": 331,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2021-11-29": 26,
@@ -89,7 +89,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 33,
-    "timeDay": 7,
+    "timeDay": 12,
     "timeWeek": 10,
     "timeMonth": 20,
     "timeYear": 33,
@@ -101,7 +101,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "30.40%",
+    "uptime": "30.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -112,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-11": 55,
+      "2022-02-12": 55,
+      "2022-02-11": 1440,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
@@ -475,8 +476,7 @@
       "2021-02-16": 1440,
       "2021-02-15": 1440,
       "2021-02-14": 1440,
-      "2021-02-13": 1440,
-      "2021-02-12": 1440
+      "2021-02-13": 1440
     }
   }
 ]
