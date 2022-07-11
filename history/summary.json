@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 97,
-    "timeDay": 55,
-    "timeWeek": 131,
+    "timeDay": 70,
+    "timeWeek": 129,
     "timeMonth": 95,
-    "timeYear": 101,
+    "timeYear": 100,
     "dailyMinutesDown": {
       "2021-11-22": 29,
       "2021-07-27": 21
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 211,
-    "timeWeek": 169,
-    "timeMonth": 183,
+    "timeDay": 312,
+    "timeWeek": 173,
+    "timeMonth": 191,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2022-03-08": 21
@@ -47,15 +47,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "94.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.62%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.87%",
     "time": 390,
-    "timeDay": 358,
-    "timeWeek": 259,
-    "timeMonth": 242,
-    "timeYear": 391,
+    "timeDay": 477,
+    "timeWeek": 290,
+    "timeMonth": 251,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2022-07-09": 120,
       "2022-07-08": 523,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 9,
-    "timeWeek": 33,
+    "timeDay": 14,
+    "timeWeek": 32,
     "timeMonth": 24,
     "timeYear": 33,
     "dailyMinutesDown": {}
@@ -105,7 +105,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "23.91%",
+    "uptime": "23.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -116,7 +116,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-10": 104,
+      "2022-07-11": 86,
+      "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
@@ -479,8 +480,7 @@
       "2021-07-15": 1440,
       "2021-07-14": 1440,
       "2021-07-13": 1440,
-      "2021-07-12": 1440,
-      "2021-07-11": 1440
+      "2021-07-12": 1440
     }
   }
 ]
