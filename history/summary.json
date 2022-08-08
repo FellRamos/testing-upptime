@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 98,
-    "timeDay": 82,
-    "timeWeek": 78,
+    "timeDay": 71,
+    "timeWeek": 77,
     "timeMonth": 116,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 380,
-    "timeWeek": 248,
+    "timeDay": 236,
+    "timeWeek": 249,
     "timeMonth": 218,
-    "timeYear": 231,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2022-03-08": 21
     }
@@ -46,17 +46,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "99.87%",
     "time": 388,
-    "timeDay": 249,
-    "timeWeek": 314,
-    "timeMonth": 362,
-    "timeYear": 387,
+    "timeDay": 344,
+    "timeWeek": 320,
+    "timeMonth": 364,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-08-07": 14,
       "2022-07-09": 120,
       "2022-07-08": 523,
       "2022-05-19": 31,
@@ -93,7 +92,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 21,
+    "timeDay": 13,
     "timeWeek": 17,
     "timeMonth": 23,
     "timeYear": 32,
@@ -105,7 +104,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.98%",
+    "uptime": "22.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -116,7 +115,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-07": 574,
+      "2022-08-08": 83,
+      "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
@@ -479,8 +479,7 @@
       "2021-08-12": 1440,
       "2021-08-11": 1440,
       "2021-08-10": 1440,
-      "2021-08-09": 1440,
-      "2021-08-08": 1440
+      "2021-08-09": 1440
     }
   }
 ]
