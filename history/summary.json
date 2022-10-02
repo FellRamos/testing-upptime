@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 67,
-    "timeWeek": 79,
-    "timeMonth": 112,
-    "timeYear": 98,
+    "timeDay": 176,
+    "timeWeek": 94,
+    "timeMonth": 115,
+    "timeYear": 99,
     "dailyMinutesDown": {
       "2021-11-22": 29
     }
@@ -22,7 +22,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 255,
-    "timeWeek": 223,
-    "timeMonth": 232,
-    "timeYear": 222,
+    "time": 228,
+    "timeDay": 193,
+    "timeWeek": 181,
+    "timeMonth": 235,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2022-03-08": 21
     }
@@ -42,7 +42,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 381,
-    "timeDay": 433,
-    "timeWeek": 339,
-    "timeMonth": 321,
+    "timeDay": 319,
+    "timeWeek": 317,
+    "timeMonth": 326,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2022-07-09": 120,
@@ -65,7 +65,7 @@
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.com.ico",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -83,7 +83,7 @@
   {
     "name": "Test for HEAD",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
     "status": "up",
     "uptime": "100.00%",
@@ -92,19 +92,19 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 13,
-    "timeWeek": 17,
-    "timeMonth": 29,
+    "timeDay": 71,
+    "timeWeek": 25,
+    "timeMonth": 30,
     "timeYear": 28,
     "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "21.37%",
+    "uptime": "21.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -115,7 +115,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 122,
+      "2022-10-02": 113,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -478,8 +479,7 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   }
 ]
