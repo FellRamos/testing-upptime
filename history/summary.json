@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 77,
-    "timeWeek": 93,
+    "timeDay": 60,
+    "timeWeek": 90,
     "timeMonth": 141,
-    "timeYear": 101,
+    "timeYear": 100,
     "dailyMinutesDown": {
       "2021-11-22": 29
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 156,
-    "timeWeek": 297,
-    "timeMonth": 187,
+    "timeDay": 288,
+    "timeWeek": 289,
+    "timeMonth": 188,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2022-03-08": 21
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 375,
-    "timeDay": 468,
-    "timeWeek": 323,
-    "timeMonth": 287,
+    "timeDay": 450,
+    "timeWeek": 328,
+    "timeMonth": 292,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2022-07-09": 120,
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 12,
-    "timeWeek": 25,
+    "timeDay": 10,
+    "timeWeek": 24,
     "timeMonth": 30,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.38%",
+    "uptime": "20.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -115,7 +115,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-08": 82,
+      "2022-11-09": 83,
+      "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
@@ -478,8 +479,7 @@
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
-      "2021-11-10": 1440,
-      "2021-11-09": 1440
+      "2021-11-10": 1440
     }
   }
 ]
