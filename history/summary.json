@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 54,
-    "timeWeek": 83,
-    "timeMonth": 92,
+    "timeDay": 97,
+    "timeWeek": 89,
+    "timeMonth": 93,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-05-01": 27
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 202,
-    "timeWeek": 280,
-    "timeMonth": 218,
+    "timeDay": 239,
+    "timeWeek": 288,
+    "timeMonth": 226,
     "timeYear": 200,
     "dailyMinutesDown": {}
   },
@@ -46,12 +46,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 323,
-    "timeDay": 410,
-    "timeWeek": 265,
-    "timeMonth": 301,
+    "time": 322,
+    "timeDay": 160,
+    "timeWeek": 237,
+    "timeMonth": 296,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2024-05-31": 16,
@@ -92,9 +92,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 28,
-    "timeDay": 9,
-    "timeWeek": 27,
+    "time": 29,
+    "timeDay": 19,
+    "timeWeek": 29,
     "timeMonth": 21,
     "timeYear": 30,
     "dailyMinutesDown": {
@@ -107,10 +107,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "11.77%",
+    "uptime": "11.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -118,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 67,
+      "2024-07-01": 69,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -481,8 +482,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   }
 ]
