@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 109,
-    "timeDay": 100,
-    "timeWeek": 84,
-    "timeMonth": 95,
-    "timeYear": 103,
+    "time": 110,
+    "timeDay": 182,
+    "timeWeek": 96,
+    "timeMonth": 98,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 199,
-    "timeWeek": 212,
-    "timeMonth": 232,
-    "timeYear": 213,
+    "time": 220,
+    "timeDay": 393,
+    "timeWeek": 233,
+    "timeMonth": 240,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -44,17 +44,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 324,
-    "timeDay": 273,
-    "timeWeek": 360,
+    "timeDay": 263,
+    "timeWeek": 354,
     "timeMonth": 327,
-    "timeYear": 335,
+    "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-10-23": 10,
       "2024-10-22": 23,
       "2024-09-07": 50,
       "2024-09-02": 24,
@@ -95,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 31,
-    "timeDay": 14,
-    "timeWeek": 33,
-    "timeMonth": 24,
+    "timeDay": 89,
+    "timeWeek": 43,
+    "timeMonth": 26,
     "timeYear": 31,
     "dailyMinutesDown": {
       "2024-05-01": 43
@@ -120,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-23": 1317,
+      "2024-10-24": 72,
+      "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -483,8 +483,7 @@
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
-      "2023-10-26": 1440,
-      "2023-10-25": 1440
+      "2023-10-26": 1440
     }
   }
 ]
